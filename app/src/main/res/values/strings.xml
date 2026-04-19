@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">消息推送</string>
+    <string name="accessibility_service_description">用于获取通知内容并通过 MQTT 推送，支持敏感通知内容提取</string>
+</resources>
